@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Level_2.LinearSearch&apos; to &apos;ArraySearch&apos;&#x0D;&#x0A;- Original project: &apos;ArrayPrograms&apos;&#x0D;&#x0A;- Original element: &apos;Level_2.LinearSearch&apos;&#x0D;&#x0A;- Renamed element: &apos;Level_2.ArraySearch&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LinearSearch&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Level_2{LinearSearch.java[LinearSearch" matchStrategy="1" name="ArraySearch" qualified="false" references="true" similarDeclarations="false" stamp="1691004351138" textual="false" version="1.0"/>
+</session>
